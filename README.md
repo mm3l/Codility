@@ -1,5 +1,6 @@
 # Codility
 Codility training assignments
 
-##
-BinaryGap
+## Easy
+### BinaryGap 100%
+Find longest sequence of zeros in binary representation of an integer.
