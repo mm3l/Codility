@@ -1,7 +1,7 @@
 # Codility
 Codility training assignments
 
-## Easy
+## Tests
 ### BinaryGap `100%`
 Find longest sequence of zeros in binary representation of an integer.
 ### OddOccurrencesInArray `100%` `Time Complexity: O(n)`
