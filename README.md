@@ -9,5 +9,5 @@ Find longest sequence of zeros in binary representation of an integer.
 _Arrays_
 ### OddOccurrencesInArray `100%` `Time Complexity: O(n)`
 Find value that occurs in odd number of elements.
-### CyclicRotation `100%`
+### CyclicRotation `100%` `Time Complexity: O(n)`
 Rotate an array to the right by a given number of steps.
