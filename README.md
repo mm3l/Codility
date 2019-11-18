@@ -3,20 +3,25 @@ Codility training assignments
 
 ## Lesson 1
 [_Iterations_](https://codility.com/media/train/Iterations.pdf)
-### BinaryGap `100%`
+### [BinaryGap](https://github.com/mm3l/Codility/tree/master/binarygap) `100%`
 Find longest sequence of zeros in binary representation of an integer.
 ## Lesson 2
 [_Arrays_](https://codility.com/media/train/0-Arrays.pdf)
-### OddOccurrencesInArray `100%` `Time Complexity: O(n)`
+<details>
+  <summary>See results</summary>
+
+### [OddOccurrencesInArray](https://github.com/mm3l/Codility/tree/master/OddOccurrencesInArray) `100%` `Time Complexity: O(n)`
 Find value that occurs in odd number of elements.
-### CyclicRotation `100%` `Time Complexity: O(n)`
+### [CyclicRotation](https://github.com/mm3l/Codility/tree/master/CyclicRotation) `100%` `Time Complexity: O(n)`
 Rotate an array to the right by a given number of steps.
+</details>
+
 ## Lesson 3
 [_Time Complexity_](https://codility.com/media/train/1-TimeComplexity.pdf)
 <details>
-  <summary>Click to expand!</summary>
+  <summary>See results!</summary>
   
-### FrogJmp `100` `Time Complexity: O(n)`
+### [FrogJmp](https://github.com/mm3l/Codility/tree/master/FrogJmp) `100` `Time Complexity: O(n)`
 Count minimal number of jumps from position X to Y.
 ### PermMissingElem
 Find the missing element in a given permutation.
