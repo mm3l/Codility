@@ -6,7 +6,7 @@ Codility training assignments
 ### BinaryGap `100%`
 Find longest sequence of zeros in binary representation of an integer.
 ## Lesson 2
-[_Arrays ](https://codility.com/media/train/0-Arrays.pdf)
+[_Arrays_](https://codility.com/media/train/0-Arrays.pdf)
 ### OddOccurrencesInArray `100%` `Time Complexity: O(n)`
 Find value that occurs in odd number of elements.
 ### CyclicRotation `100%` `Time Complexity: O(n)`
