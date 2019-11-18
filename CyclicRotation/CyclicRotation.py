@@ -10,16 +10,20 @@
 def solution(A, K):
     """ Rotate an array to the right by a given number of steps."""
 
-    if not A:
+    length = len(A)
+
+    if (length < 1) or (length == K):
         return A
 
-    temp = []  
+    K = K % length
+
     for k in range(K):
-        temp.append(A[len(A)-1])
-        for i in range(0, len(A)-1):
-            temp.append(A[i])
-        A = temp
-        temp = []
+        
+        last = A[length-1]
+        for i in range((length - 1), 0, -1):
+            A[i] = A[i-1]
+
+        A[0] = last
 
     return A
 
@@ -39,4 +43,3 @@ def test_CyclicRotation():
 if __name__ == "__main__":
 
     test_CyclicRotation()
-    
