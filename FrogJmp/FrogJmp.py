@@ -17,7 +17,7 @@ def solution(X, Y, D):
 #-----------------------------------------------------------------------------#
 #                                 TEST                                        #
 #-----------------------------------------------------------------------------#
-def test_CyclicRotation():
+def test_Frogjmp():
     assert solution(10, 85, 30) == 3
     assert solution(10, 90, 30) == 3
     assert solution(1, 5, 2) == 2
@@ -29,4 +29,4 @@ def test_CyclicRotation():
 
 if __name__ == "__main__":
 
-    test_CyclicRotation()
+    test_Frogjmp()
