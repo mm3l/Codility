@@ -38,6 +38,3 @@ Write an **efficient** algorithm for the following assumptions:
 <li>each element of array A is an integer within the range [1..1,000,000,000];</li>
 <li>all but one of the values in A occur an even number of times.</li>
 </ul>
-
-## Reading material
-[Arrays (PDF)](https://codility.com/media/train/0-Arrays.pdf)
