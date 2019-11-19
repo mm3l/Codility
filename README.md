@@ -36,7 +36,7 @@ Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 
 ### [PermCheck](https://github.com/mm3l/Codility/tree/master/PermCheck) [`100%`](https://app.codility.com/demo/results/trainingQS748H-UHX/)
 Check whether array A is a permutation.
-### FrogRiverOne
+### [FrogRiverOne](https://github.com/mm3l/Codility/tree/master/FrogRiverOne) [`100%`](https://app.codility.com/demo/results/training2GMRJV-7JF/)
 Find the earliest time when a frog can jump to the other side of a river.
 ### MaxCounters
 Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
