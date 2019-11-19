@@ -13,24 +13,15 @@ def solution(A):
     Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
     """
 
-    arr_length = len(A)
-    min_diff = []
+    arr_sum = sum(A)
     l_count = 0
+    distance = float('inf')
 
-    for i in range(0, arr_length-1):
-
+    for i in range(0, len(A)-1):
         l_count += A[i]
-        
-        r_count = 0
-        for n in range(arr_length-1, i, -1):
-            r_count += A[n]
-
-        min_diff.append(abs(l_count - r_count))
-        #print "index:", i, "|" , l_count, " - ", r_count, "| = ", abs(l_count - r_count)
-
-    #print min_diff
+        distance = min(abs(arr_sum - 2 * l_count), distance)
     
-    return min(min_diff)
+    return distance
     
 #-----------------------------------------------------------------------------#
 #                                 TEST                                        #
@@ -45,4 +36,3 @@ def test_TapeEquilibrium():
 if __name__ == "__main__":
 
     test_TapeEquilibrium()
-    print solution([3,1,2,4,3])
