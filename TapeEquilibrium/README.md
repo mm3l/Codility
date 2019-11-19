@@ -36,6 +36,7 @@ For example, given:
   A[2] = 2 <br>
   A[3] = 4 <br>
   A[4] = 3 <br>
+
 the function should return 1, as explained above.
 
 Write an **efficient** algorithm for the following assumptions:
