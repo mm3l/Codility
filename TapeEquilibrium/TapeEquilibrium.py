@@ -15,6 +15,7 @@ def solution(A):
 
     arr_length = len(A)
     min_diff = []
+    l_count = 0
 
     for i in range(0, arr_length-1):
 
