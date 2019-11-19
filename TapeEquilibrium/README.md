@@ -20,7 +20,7 @@ We can split this tape in four places:
 * P = 2, difference = |4 − 9| = 5
 * P = 3, difference = |6 − 7| = 1
 * P = 4, difference = |10 − 3| = 7
-
+<br>
 Write a function:
 ```python
 def solution(A)
