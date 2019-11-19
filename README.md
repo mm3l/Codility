@@ -25,6 +25,6 @@ Rotate an array to the right by a given number of steps.
 Count minimal number of jumps from position X to Y.
 ### [PermMissingElem](https://github.com/mm3l/Codility/tree/master/PermMissingElem) `100%` `Time Complexity: O(N) or O(N * log(N))`
 Find the missing element in a given permutation.
-### TapeEquilibrium
+### [TapeEquilibrium](https://github.com/mm3l/Codility/tree/master/TapeEquilibrium) `100%` `Time Complexity: O(N)`
 Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 </details>
