@@ -34,7 +34,7 @@ Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 <details>
   <summary>See results!</summary>
 
-### PermCheck
+### [PermCheck](https://github.com/mm3l/Codility/tree/master/PermCheck) [`100%`](https://app.codility.com/demo/results/trainingQS748H-UHX/)
 Check whether array A is a permutation.
 ### FrogRiverOne
 Find the earliest time when a frog can jump to the other side of a river.
