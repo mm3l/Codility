@@ -28,3 +28,25 @@ Find the missing element in a given permutation.
 ### [TapeEquilibrium](https://github.com/mm3l/Codility/tree/master/TapeEquilibrium) `100%` `Time Complexity: O(N)`
 Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 </details>
+
+## Lesson 4
+[_Counting Elements_](https://codility.com/media/train/2-CountingElements.pdf)
+<details>
+  <summary>See results!</summary>
+
+### PermCheck
+Check whether array A is a permutation.
+### FrogRiverOne
+Find the earliest time when a frog can jump to the other side of a river.
+### MaxCounters
+Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
+### MissingInteger
+Find the smallest positive integer that does not occur in a given sequence.
+</details>
+
+## Lesson 5
+<details>
+  <summary>See results!</summary>
+</details>
+
+
