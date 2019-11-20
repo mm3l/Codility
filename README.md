@@ -38,7 +38,7 @@ Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
 Check whether array A is a permutation.
 ### [FrogRiverOne](https://github.com/mm3l/Codility/tree/master/FrogRiverOne) [`100%`](https://app.codility.com/demo/results/training2GMRJV-7JF/)
 Find the earliest time when a frog can jump to the other side of a river.
-### [MaxCounters](https://github.com/mm3l/Codility/tree/master/MaxCounters)
+### [MaxCounters](https://github.com/mm3l/Codility/tree/master/MaxCounters) [`100%`](https://app.codility.com/demo/results/training2EJTVT-65B/)
 Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
 ### MissingInteger
 Find the smallest positive integer that does not occur in a given sequence.
