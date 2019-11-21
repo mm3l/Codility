@@ -45,8 +45,17 @@ Find the smallest positive integer that does not occur in a given sequence.
 </details>
 
 ## Lesson 5
+[_Prefix Sums_](https://codility.com/media/train/3-PrefixSums.pdf)
 <details>
   <summary>See results!</summary>
-</details>
 
+### PassingCars
+Count the number of passing cars on the road.
+### GenomicRangeQuery
+Find the minimal nucleotide from a range of sequence DNA.
+### MinAvgTwoSlice
+Find the minimal average of any slice containing at least two elements.
+### CountDiv
+Compute number of integers divisible by k in range [a..b].
+</details>
 
