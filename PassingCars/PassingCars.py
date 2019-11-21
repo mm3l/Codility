@@ -12,16 +12,16 @@ def solution(A):
     PassingCars
     Counts the number of passing cars on the road.
     """
+ 
     cars = 0
+    ones = 0
 
-    for i in range(len(A)):
+    for i in range(len(A), 0, -1):
 
-        if A[i] == 0:
-            for j in range(i, len(A)):
-
-                if A[i] is not A[j]:
-                    #print i, j         # print the pairs
-                    cars += 1
+        if A[i-1] == 1:
+            ones += 1
+        else:
+            cars += ones
 
     return (-1 if cars > 1000000000 else cars)
 
@@ -29,11 +29,15 @@ def solution(A):
 #                                 TEST                                        #
 #-----------------------------------------------------------------------------#
 def test_PassingCars():
-    assert solution([0,1,0,1,1])    == 5
+    assert solution([0])                == 0
+    assert solution([1])                == 0
+    assert solution([0,1,0,1,1])        == 5
+    assert solution([0,1,0,1,1,0,1])    == 4 + 3 + 1
+    assert solution([1,0,0,0,1])        == 3
 
 #-----------------------------------------------------------------------------#
 #                                 MAIN                                        #
 #-----------------------------------------------------------------------------#
 
 if __name__ == "__main__":
-    test_PassingCars()
+    test_PassingCars()   
