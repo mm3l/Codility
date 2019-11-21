@@ -40,7 +40,7 @@ Check whether array A is a permutation.
 Find the earliest time when a frog can jump to the other side of a river.
 ### [MaxCounters](https://github.com/mm3l/Codility/tree/master/MaxCounters) [`100%`](https://app.codility.com/demo/results/training2EJTVT-65B/)
 Calculate the values of counters after applying all alternating operations: increase counter by 1; set value of all counters to current maximum.
-### MissingInteger
+### [MissingInteger](https://github.com/mm3l/Codility/tree/master/MissingInteger) [`100%`](https://app.codility.com/demo/results/trainingCQF52A-DQX/)
 Find the smallest positive integer that does not occur in a given sequence.
 </details>
 
