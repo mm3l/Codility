@@ -67,7 +67,7 @@ Compute number of integers divisible by k in range [a..b].
 ### [MaxProductOfThree](https://github.com/mm3l/Codility/tree/master/MaxProductOfThree) [`100%`](https://app.codility.com/demo/results/trainingS2PYFF-EY7/)
 Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 
-### [Distinct](https://github.com/mm3l/Codility/tree/master/Distinct)
+### [Distinct](https://github.com/mm3l/Codility/tree/master/Distinct) [`100%`](https://app.codility.com/demo/results/trainingA5YUHE-YFX/)
 Compute number of distinct values in an array.
 
 ### Triangle
