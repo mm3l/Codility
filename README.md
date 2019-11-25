@@ -59,3 +59,22 @@ Find the minimal average of any slice containing at least two elements.
 Compute number of integers divisible by k in range [a..b].
 </details>
 
+## Lesson 6
+[_Sorting_](https://codility.com/media/train/4-Sorting.pdf)
+<details>
+  <summary>See results!</summary>
+
+### MaxProductOfThree
+Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
+
+### Distinct
+Compute number of distinct values in an array.
+
+### Triangle
+Determine whether a triangle can be built from a given set of edges.
+
+### NumberOfDiscIntersections
+Compute the number of intersections in a sequence of discs.
+
+</details>
+
