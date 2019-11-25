@@ -64,7 +64,7 @@ Compute number of integers divisible by k in range [a..b].
 <details>
   <summary>See results!</summary>
 
-### MaxProductOfThree
+### [MaxProductOfThree](https://github.com/mm3l/Codility/tree/master/MaxProductOfThree) [`100%`](https://app.codility.com/demo/results/trainingS2PYFF-EY7/)
 Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 
 ### Distinct
