@@ -13,25 +13,21 @@ def solution(S, P, Q):
     Finds the minimal nucleotide from a range of sequence DNA.
     """
 
-    nucleotides = []
     dna_factors = { 'A': 1, 'C': 2, 'G': 3, 'T': 4}
- 
-    nucleotides_factors = [0] * len(S)
-    
-    for i in range(len(S)):
-        nucleotides_factors[i] = dna_factors[S[i]]
+    nucleotides = []
 
-    #print nucleotides_factors
-
-    p = 0
-    q = 0
     for i in range(len(P)):
         p = P[i]
         q = Q[i]
-        nucleotide = nucleotides_factors[p:q+1]
 
-        #print p,q, nucleotide
-        nucleotides.append(min(nucleotide))
+        if 'A' in S[p:q+1]:
+            nucleotides.append(1)
+        elif 'C' in S[p:q+1]:
+            nucleotides.append(2)
+        elif 'G' in S[p:q+1]:
+            nucleotides.append(3)
+        else:
+            nucleotides.append(4)
 
     return nucleotides
 
