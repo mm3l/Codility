@@ -53,7 +53,7 @@ Find the smallest positive integer that does not occur in a given sequence.
 Count the number of passing cars on the road.
 ### [GenomicRangeQuery](https://github.com/mm3l/Codility/tree/master/GenomicRangeQuery) [`100%`](https://app.codility.com/demo/results/trainingPJZJBC-QSS/)
 Find the minimal nucleotide from a range of sequence DNA.
-### MinAvgTwoSlice
+### [MinAvgTwoSlice](https://github.com/mm3l/Codility/tree/master/MinAvgTwoSlice)
 Find the minimal average of any slice containing at least two elements.
 ### CountDiv
 Compute number of integers divisible by k in range [a..b].
