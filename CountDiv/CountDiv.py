@@ -12,13 +12,13 @@ def solution(A, B, K):
     CountDiv
     Computes number of integers divisible by k in range [a..b].
     """
-    
-    counter = 0
-    for i in range(A, B+1):
-        if (i % K) == 0:
-            counter += 1
 
-    return counter
+    B_div_K = B // K
+    A_div_K = A // K
+    
+    remainder = 1 if (A % K == 0) else 0
+
+    return (B_div_K - A_div_K) + remainder
 
 #-----------------------------------------------------------------------------#
 #                                 TEST                                        #
@@ -28,6 +28,7 @@ def test_MinAvgTwoSlice():
    assert solution(0, 5, 2)     == 3
    assert solution(0, 0, 11)    == 1
    assert solution(0, 1, 11)    == 1
+   assert solution(11, 14, 2)   == 2
 
 #-----------------------------------------------------------------------------#
 #                                 MAIN                                        #
