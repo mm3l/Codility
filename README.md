@@ -55,7 +55,7 @@ Count the number of passing cars on the road.
 Find the minimal nucleotide from a range of sequence DNA.
 ### [MinAvgTwoSlice](https://github.com/mm3l/Codility/tree/master/MinAvgTwoSlice) [`100%`](https://app.codility.com/demo/results/trainingAT6W7M-Q8A/)
 Find the minimal average of any slice containing at least two elements.
-### [CountDiv](https://github.com/mm3l/Codility/tree/master/CountDiv)
+### [CountDiv](https://github.com/mm3l/Codility/tree/master/CountDiv) [`100%`](https://app.codility.com/demo/results/trainingQAXAJQ-DP3/)
 Compute number of integers divisible by k in range [a..b].
 </details>
 
