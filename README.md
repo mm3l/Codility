@@ -70,7 +70,7 @@ Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 ### [Distinct](https://github.com/mm3l/Codility/tree/master/Distinct) [`100%`](https://app.codility.com/demo/results/trainingA5YUHE-YFX/)
 Compute number of distinct values in an array.
 
-### Triangle
+### [Triangle](https://github.com/mm3l/Codility/tree/master/Triangle) [`100%`](https://app.codility.com/demo/results/trainingNZXQ8T-EMU/)
 Determine whether a triangle can be built from a given set of edges.
 
 ### NumberOfDiscIntersections
