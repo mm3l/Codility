@@ -78,3 +78,22 @@ Compute the number of intersections in a sequence of discs.
 
 </details>
 
+## Lesson 7
+[_Stacks and Queues_](https://codility.com/media/train/5-Stacks.pdf)
+<details>
+  <summary>See results!</summary>
+
+### Brackets
+Determine whether a given string of parentheses (multiple types) is properly nested.
+
+### Fish
+N voracious fish are moving along a river. Calculate how many fish are alive.
+
+### Nesting
+Determine whether a given string of parentheses (single type) is properly nested.
+
+### StoneWall
+Cover "Manhattan skyline" using the minimum number of rectangles.
+
+</details>
+
