@@ -86,7 +86,7 @@ Compute the number of intersections in a sequence of discs.
 ### [Brackets](https://github.com/mm3l/Codility/tree/master/Brackets) [`100%`](https://app.codility.com/demo/results/trainingAHQN7A-9YD/)
 Determine whether a given string of parentheses (multiple types) is properly nested.
 
-### Fish
+### [Fish](https://github.com/mm3l/Codility/tree/master/Fish) [`100%`](https://app.codility.com/demo/results/trainingWMXANE-M5T/)
 N voracious fish are moving along a river. Calculate how many fish are alive.
 
 ### Nesting
