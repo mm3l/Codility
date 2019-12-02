@@ -16,32 +16,20 @@ def solution(A):
     """
     
     N = len(A)
+    hist = {}
 
-    size = 0
-    value = 0
+    if not A or N == 0:
+        return -1
+        
     for i in range(N):
-        if size == 0:
-            size += 1
-            value = A[i]
-        else:
-            if value != A[i]:
-                size -= 1
-            else:
-                size += 1
+        hist[A[i]] = hist.get(A[i],0) + 1
 
-    candidate = -1
-    if size > 0:
-        candidate = value
+    candidate = max(hist, key=hist.get)
+    count = hist[candidate]
 
     leader = -1
-    count = 0
-
-    for j in range(N):
-        if A[j] == candidate:
-            count += 1
-    
     if count > N // 2:
-         leader = candidate
+        leader = candidate
 
     return A.index(leader) if leader != -1 else leader
 
