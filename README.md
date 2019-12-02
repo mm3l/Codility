@@ -102,7 +102,7 @@ Cover "Manhattan skyline" using the minimum number of rectangles.
 <details>
   <summary>See results!</summary>
 
-### Dominator
+### [Dominator](https://github.com/mm3l/Codility/tree/master/Dominator) [`100%`](https://app.codility.com/demo/results/trainingF83KBC-SF2/)
 Find an index of an array such that its value occurs at more than half of indices in the array.
 
 ### EquiLeader
