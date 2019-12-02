@@ -92,8 +92,22 @@ N voracious fish are moving along a river. Calculate how many fish are alive.
 ### [Nesting](https://github.com/mm3l/Codility/tree/master/Nesting) [`100%`](https://app.codility.com/demo/results/trainingP553PK-MDH/)
 Determine whether a given string of parentheses (single type) is properly nested.
 
-### StoneWall
+### [StoneWall](https://github.com/mm3l/Codility/tree/master/StoneWall) [`100%`](https://app.codility.com/demo/results/trainingDACA6A-PWF/)
 Cover "Manhattan skyline" using the minimum number of rectangles.
 
 </details>
+
+## Lesson 8
+[_Leader_](https://codility.com/media/train/6-Leader.pdf)
+<details>
+  <summary>See results!</summary>
+
+### Dominator
+Find an index of an array such that its value occurs at more than half of indices in the array.
+
+### EquiLeader
+Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] and A[S + 1], A[S + 2], ..., A[N - 1] are the same.
+
+</details>
+
 
