@@ -105,7 +105,7 @@ Cover "Manhattan skyline" using the minimum number of rectangles.
 ### [Dominator](https://github.com/mm3l/Codility/tree/master/Dominator) [`100%`](https://app.codility.com/demo/results/trainingF83KBC-SF2/) or [`100%`](https://app.codility.com/demo/results/trainingJDPNAK-93E/)
 Find an index of an array such that its value occurs at more than half of indices in the array.
 
-### EquiLeader
+### [EquiLeader](https://github.com/mm3l/Codility/tree/master/EquiLeader) [`100%`](https://app.codility.com/demo/results/trainingX4Z4YF-CTS/)
 Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] and A[S + 1], A[S + 2], ..., A[N - 1] are the same.
 
 </details>
