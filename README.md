@@ -110,4 +110,18 @@ Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] an
 
 </details>
 
+## Lesson 9
+[_Maximum slice problem_](https://codility.com/media/train/7-MaxSlice.pdf)
+<details>
+  <summary>See results!</summary>
 
+### MaxProfit
+Given a log of stock prices compute the maximum possible earning.
+
+### MaxSliceSum
+Find a maximum sum of a compact subsequence of array elements.
+
+### MaxDoubleSliceSum
+Find the maximal sum of any double slice.
+
+</details>
