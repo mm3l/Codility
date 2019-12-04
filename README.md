@@ -131,7 +131,7 @@ Find the maximal sum of any double slice.
 <details>
   <summary>See results!</summary>
 
-### CountFactors
+### [CountFactors](https://github.com/mm3l/Codility/tree/master/CountFactors) [`100%`] (https://app.codility.com/demo/results/trainingUUXW82-GZZ/)
 Count factors of given number n.
 
 ### MinPerimeterRectangle
