@@ -121,7 +121,7 @@ Given a log of stock prices compute the maximum possible earning.
 ### [MaxSliceSum](https://github.com/mm3l/Codility) [`100%`](https://app.codility.com/demo/results/trainingKRNAAM-5EP/)
 Find a maximum sum of a compact subsequence of array elements.
 
-### MaxDoubleSliceSum
+### [MaxDoubleSliceSum](https://github.com/mm3l/Codility/tree/master/MaxDoubleSliceSum) [`100%`](https://app.codility.com/demo/results/trainingY9U7QQ-BGD/)
 Find the maximal sum of any double slice.
 
 </details>
