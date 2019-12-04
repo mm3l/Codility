@@ -134,7 +134,7 @@ Find the maximal sum of any double slice.
 ### [CountFactors](https://github.com/mm3l/Codility/tree/master/CountFactors) [`100%`](https://app.codility.com/demo/results/trainingUUXW82-GZZ/)
 Count factors of given number n.
 
-### MinPerimeterRectangle
+### [MinPerimeterRectangle](https://github.com/mm3l/Codility/tree/master/MinPerimeterRectangle) [`100%`](https://app.codility.com/demo/results/trainingM48Z72-T42/)
 Find the minimal perimeter of any rectangle whose area equals N.
 
 ### Peaks
