@@ -125,3 +125,23 @@ Find a maximum sum of a compact subsequence of array elements.
 Find the maximal sum of any double slice.
 
 </details>
+
+## Lesson 10
+[_Prime and composite numbers_](https://codility.com/media/train/8-PrimeNumbers.pdf)
+<details>
+  <summary>See results!</summary>
+
+### CountFactors
+Count factors of given number n.
+
+### MinPerimeterRectangle
+Find the minimal perimeter of any rectangle whose area equals N.
+
+### Peaks
+Divide an array into the maximum number of same-sized blocks, each of which should contain an index P such that A[P - 1] < A[P] > A[P + 1].
+Find the maximum number of flags that can be set on mountain peaks.
+
+### Flags
+Find the maximum number of flags that can be set on mountain peaks.
+
+</details>
