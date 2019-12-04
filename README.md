@@ -118,7 +118,7 @@ Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] an
 ### [MaxProfit](https://github.com/mm3l/Codility/tree/master/MaxProfit) [`100%`](https://app.codility.com/demo/results/training9PUECU-48V/)
 Given a log of stock prices compute the maximum possible earning.
 
-### MaxSliceSum
+### [MaxSliceSum](https://github.com/mm3l/Codility) [`100%`](https://app.codility.com/demo/results/trainingKRNAAM-5EP/)
 Find a maximum sum of a compact subsequence of array elements.
 
 ### MaxDoubleSliceSum
