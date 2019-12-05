@@ -145,3 +145,16 @@ Find the maximum number of flags that can be set on mountain peaks.
 Find the maximum number of flags that can be set on mountain peaks.
 
 </details>
+
+## Lesson 11
+[_Sieve of Eratosthenes_](https://codility.com/media/train/9-Sieve.pdf)
+<details>
+  <summary>See results!</summary>
+  
+### CountSemiprimes
+Count the semiprime numbers in the given range [a..b]
+
+### CountNonDivisible
+Calculate the number of elements of an array that are not divisors of each element.
+
+</details>
