@@ -141,7 +141,7 @@ Find the minimal perimeter of any rectangle whose area equals N.
 Divide an array into the maximum number of same-sized blocks, each of which should contain an index P such that A[P - 1] < A[P] > A[P + 1].
 Find the maximum number of flags that can be set on mountain peaks.
 
-### Flags
+### [Flags](https://github.com/mm3l/Codility/tree/master/Flags) [`87%`](https://app.codility.com/demo/results/trainingPYSSX4-XKN/)
 Find the maximum number of flags that can be set on mountain peaks.
 
 </details>
