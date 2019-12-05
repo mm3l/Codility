@@ -137,7 +137,7 @@ Count factors of given number n.
 ### [MinPerimeterRectangle](https://github.com/mm3l/Codility/tree/master/MinPerimeterRectangle) [`100%`](https://app.codility.com/demo/results/trainingM48Z72-T42/)
 Find the minimal perimeter of any rectangle whose area equals N.
 
-### Peaks
+### [Peaks](https://github.com/mm3l/Codility/tree/master/Peaks) [`100%`](https://app.codility.com/demo/results/trainingUSJQ4Y-JR9/)
 Divide an array into the maximum number of same-sized blocks, each of which should contain an index P such that A[P - 1] < A[P] > A[P + 1].
 Find the maximum number of flags that can be set on mountain peaks.
 
